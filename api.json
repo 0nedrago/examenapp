@@ -1,0 +1,32 @@
+{
+  "api": [
+    {
+      "id": 1,
+      "nombre": "Programación de Aplicaciones Moviles",
+      "desc": "Julio Andres Herrera Urra",
+      "categoria": "Ricardo Patricio Alcantar Farias",
+      "nivel": "Esteban Hernan Lobos Canales",
+      "reclutamiento": "Nestor Amaro Aviles Gaete",
+      "carta": "Como fue hablado en clases, la tercera evaluacion sera la misma que el examen y este se entregara y presentara el día Viernes 27 de Enero",
+      "precio": "2023-01-07"
+    },
+    {
+      "id": 2,
+      "nombre": "Programación de Aplicaciones Moviles",
+      "desc": "Julio Andres Herrera Urra",
+      "categoria": "Yislein Betsabe Cruces Gatica",
+      "nivel": "Alondra Belen Carreño Gamboa",
+      "reclutamiento": "Hans Patrick Loreto Rojas",
+      "carta": "Buenas tardes a todos/as, recuerden que el día Viernes 20 de Enero tendremos la segunda prueba de la asignatura, todo el material esta subido en el AVA para que lo revisen, al igual que los quiz de cada clase que estaremos viendo para que se preparen para la parte teorica",
+      "precio": "2023-01-06"
+    },
+    {
+      "categoria":"Claudio Arturo Alvarez Fernandez",
+      "nivel": "Sebastian Henriques Briones Ruiz",
+      "reclutamiento": "Jose Andres Parrish Villareal"
+    }
+  ]
+  
+}
+
+
